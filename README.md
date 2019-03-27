@@ -1,6 +1,7 @@
 # sign_language
 
 In the project I trained a classifier to distinguish digits in the sign language. 
+95% accuracy was achieved on the test data.
 
 The dataset was downloaded from (https://www.kaggle.com/ardamavi/sign-language-digits-dataset)
 <pre>
